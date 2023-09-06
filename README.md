@@ -6,4 +6,7 @@
 - 🫨 My knees crack when I squat
 
 ## Languages
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,bash,dart,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,py,bash,dart,kotlin,swift)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,flutter,git,vim)](https://skillicons.dev)
